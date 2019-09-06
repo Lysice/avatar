@@ -1,0 +1,14 @@
+{
+    "name": "lysice/avatar",
+    "description": "an image-text creator for laravel.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lysice",
+            "email": "snowist@126.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
